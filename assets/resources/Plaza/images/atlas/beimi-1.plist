@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>#按钮/big_#button.png</key>
+            <key>#按钮-big_#button.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>#按钮/big_cancel.png</key>
+            <key>#按钮-big_cancel.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -34,7 +34,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>#按钮/big_ok.png</key>
+            <key>#按钮-big_ok.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -49,7 +49,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>#按钮/small_#button.png</key>
+            <key>#按钮-small_#button.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>#按钮/small_agree.png</key>
+            <key>#按钮-small_agree.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>#按钮/small_cancel.png</key>
+            <key>#按钮-small_cancel.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>#按钮/small_ok.png</key>
+            <key>#按钮-small_ok.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>#按钮/small_refuse.png</key>
+            <key>#按钮-small_refuse.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>#按钮/small_update.png</key>
+            <key>#按钮-small_update.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -454,7 +454,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>倒计时/0.png</key>
+            <key>倒计时-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -469,7 +469,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/1.png</key>
+            <key>倒计时-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -484,7 +484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>倒计时/2.png</key>
+            <key>倒计时-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -499,7 +499,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/3.png</key>
+            <key>倒计时-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -514,7 +514,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/4.png</key>
+            <key>倒计时-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -529,7 +529,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/5.png</key>
+            <key>倒计时-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -544,7 +544,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/6.png</key>
+            <key>倒计时-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -559,7 +559,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>倒计时/7.png</key>
+            <key>倒计时-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -574,7 +574,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>倒计时/8.png</key>
+            <key>倒计时-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -589,7 +589,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/9.png</key>
+            <key>倒计时-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -604,7 +604,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>倒计时/countdown_numbers.png</key>
+            <key>倒计时-countdown_numbers.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -619,7 +619,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>分享/button1_big.png</key>
+            <key>分享-button1_big.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -634,7 +634,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>分享/button2_big.png</key>
+            <key>分享-button2_big.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -649,7 +649,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>分享/content.png</key>
+            <key>分享-content.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -664,7 +664,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>分享/subtitle.png</key>
+            <key>分享-subtitle.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -679,7 +679,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>分享/title_share.png</key>
+            <key>分享-title_share.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -694,7 +694,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>分享/wechat_icon.png</key>
+            <key>分享-wechat_icon.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -709,7 +709,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/你赢了.png</key>
+            <key>切图-你赢了.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -724,7 +724,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/你输了.png</key>
+            <key>切图-你输了.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -739,7 +739,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/其他头像外框50x50.png</key>
+            <key>切图-其他头像外框50x50.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -754,7 +754,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/其他玩家底框.png</key>
+            <key>切图-其他玩家底框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -769,7 +769,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/加倍小.png</key>
+            <key>切图-加倍小.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -784,7 +784,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/+.png</key>
+            <key>切图-数字-+.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -799,7 +799,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/-.png</key>
+            <key>切图-数字--.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -814,7 +814,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/0.png</key>
+            <key>切图-数字-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -829,7 +829,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/1.png</key>
+            <key>切图-数字-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -844,7 +844,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/2.png</key>
+            <key>切图-数字-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -859,7 +859,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/3.png</key>
+            <key>切图-数字-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -874,7 +874,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/4.png</key>
+            <key>切图-数字-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -889,7 +889,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/5.png</key>
+            <key>切图-数字-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -904,7 +904,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/6.png</key>
+            <key>切图-数字-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -919,7 +919,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/7.png</key>
+            <key>切图-数字-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -934,7 +934,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/8.png</key>
+            <key>切图-数字-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -949,7 +949,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/9.png</key>
+            <key>切图-数字-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -964,7 +964,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/dian.png</key>
+            <key>切图-数字-dian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -979,7 +979,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/qian.png</key>
+            <key>切图-数字-qian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -994,7 +994,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/wan.png</key>
+            <key>切图-数字-wan.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1009,7 +1009,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_+.png</key>
+            <key>切图-数字-y_+.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1024,7 +1024,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_-.png</key>
+            <key>切图-数字-y_-.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1039,7 +1039,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/y_0.png</key>
+            <key>切图-数字-y_0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1054,7 +1054,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_1.png</key>
+            <key>切图-数字-y_1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1069,7 +1069,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_2.png</key>
+            <key>切图-数字-y_2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1084,7 +1084,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_3.png</key>
+            <key>切图-数字-y_3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1099,7 +1099,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/y_4.png</key>
+            <key>切图-数字-y_4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1114,7 +1114,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_5.png</key>
+            <key>切图-数字-y_5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1129,7 +1129,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_6.png</key>
+            <key>切图-数字-y_6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1144,7 +1144,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_7.png</key>
+            <key>切图-数字-y_7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1159,7 +1159,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_8.png</key>
+            <key>切图-数字-y_8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1174,7 +1174,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_9.png</key>
+            <key>切图-数字-y_9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1189,7 +1189,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_dian.png</key>
+            <key>切图-数字-y_dian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1204,7 +1204,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/数字/y_qian.png</key>
+            <key>切图-数字-y_qian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1219,7 +1219,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/数字/y_wan.png</key>
+            <key>切图-数字-y_wan.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1234,7 +1234,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>切图/自己头像外框74x74.png</key>
+            <key>切图-自己头像外框74x74.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1249,7 +1249,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/自己灰色底框.png</key>
+            <key>切图-自己灰色底框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1264,7 +1264,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>切图/自己金色底框.png</key>
+            <key>切图-自己金色底框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1279,7 +1279,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/0.png</key>
+            <key>加入房间-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1294,7 +1294,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/1.png</key>
+            <key>加入房间-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1309,7 +1309,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/2.png</key>
+            <key>加入房间-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1324,7 +1324,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/3.png</key>
+            <key>加入房间-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1339,7 +1339,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/4.png</key>
+            <key>加入房间-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1354,7 +1354,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/5.png</key>
+            <key>加入房间-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1369,7 +1369,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/6.png</key>
+            <key>加入房间-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1384,7 +1384,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/7.png</key>
+            <key>加入房间-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1399,7 +1399,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/8.png</key>
+            <key>加入房间-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1414,7 +1414,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/9.png</key>
+            <key>加入房间-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1429,7 +1429,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/circle.png</key>
+            <key>加入房间-circle.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1444,7 +1444,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加入房间/delete.png</key>
+            <key>加入房间-delete.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1459,7 +1459,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/retype.png</key>
+            <key>加入房间-retype.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1474,7 +1474,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/text.png</key>
+            <key>加入房间-text.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1489,7 +1489,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/tips.png</key>
+            <key>加入房间-tips.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1504,7 +1504,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>加入房间/title_join.png</key>
+            <key>加入房间-title_join.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1519,7 +1519,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加载/0.png</key>
+            <key>加载-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1534,7 +1534,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>加载/1.png</key>
+            <key>加载-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1549,7 +1549,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/不得少于8个字.png</key>
+            <key>反馈-不得少于8个字.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1564,7 +1564,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/反馈-按下.png</key>
+            <key>反馈-反馈-按下.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1579,7 +1579,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>反馈/反馈.png</key>
+            <key>反馈-反馈.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1594,7 +1594,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/发送_小.png</key>
+            <key>反馈-发送_小.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1609,7 +1609,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/感谢您的反馈.png</key>
+            <key>反馈-感谢您的反馈.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1624,7 +1624,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/提交_小.png</key>
+            <key>反馈-提交_小.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1639,7 +1639,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/答复-按下.png</key>
+            <key>反馈-答复-按下.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1654,7 +1654,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>反馈/答复.png</key>
+            <key>反馈-答复.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1669,7 +1669,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>商城/B0C49FAA-拷贝.png</key>
+            <key>商城-B0C49FAA-拷贝.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1684,7 +1684,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>商城/shop_special_title.png</key>
+            <key>商城-shop_special_title.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1699,7 +1699,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>商城/好友同玩！.png</key>
+            <key>商城-好友同玩！.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1714,7 +1714,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>商城/房卡（大）备份-拷贝.png</key>
+            <key>商城-房卡（大）备份-拷贝.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1729,7 +1729,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>商城/购买房卡请联系微信：jiumei091.png</key>
+            <key>商城-购买房卡请联系微信：jiumei091.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1759,7 +1759,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/0.png</key>
+            <key>底分字-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1774,7 +1774,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/1.png</key>
+            <key>底分字-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1789,7 +1789,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/2.png</key>
+            <key>底分字-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1804,7 +1804,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/3.png</key>
+            <key>底分字-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1819,7 +1819,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/4.png</key>
+            <key>底分字-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1834,7 +1834,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/5.png</key>
+            <key>底分字-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1849,7 +1849,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/6.png</key>
+            <key>底分字-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1864,7 +1864,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/7.png</key>
+            <key>底分字-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1879,7 +1879,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/8.png</key>
+            <key>底分字-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1894,7 +1894,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/9.png</key>
+            <key>底分字-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1909,7 +1909,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g-.png</key>
+            <key>底分字-绿色-g-.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1924,7 +1924,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g.png</key>
+            <key>底分字-绿色-g.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1939,7 +1939,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/绿色/g0.png</key>
+            <key>底分字-绿色-g0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1954,7 +1954,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/绿色/g1.png</key>
+            <key>底分字-绿色-g1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1969,7 +1969,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g2.png</key>
+            <key>底分字-绿色-g2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1984,7 +1984,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g3.png</key>
+            <key>底分字-绿色-g3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1999,7 +1999,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/绿色/g4.png</key>
+            <key>底分字-绿色-g4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2014,7 +2014,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g5.png</key>
+            <key>底分字-绿色-g5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2029,7 +2029,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/绿色/g6.png</key>
+            <key>底分字-绿色-g6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2044,7 +2044,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g7.png</key>
+            <key>底分字-绿色-g7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2059,7 +2059,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g8.png</key>
+            <key>底分字-绿色-g8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2074,7 +2074,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/绿色/g9.png</key>
+            <key>底分字-绿色-g9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2089,7 +2089,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/绿色/gg.png</key>
+            <key>底分字-绿色-gg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2104,7 +2104,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g万.png</key>
+            <key>底分字-绿色-g万.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2119,7 +2119,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/绿色/g千.png</key>
+            <key>底分字-绿色-g千.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2134,7 +2134,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b-.png</key>
+            <key>底分字-蓝色-b-.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2149,7 +2149,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b.png</key>
+            <key>底分字-蓝色-b.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2164,7 +2164,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/b0.png</key>
+            <key>底分字-蓝色-b0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2179,7 +2179,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/b1.png</key>
+            <key>底分字-蓝色-b1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2194,7 +2194,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b2.png</key>
+            <key>底分字-蓝色-b2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2209,7 +2209,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b3.png</key>
+            <key>底分字-蓝色-b3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2224,7 +2224,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b4.png</key>
+            <key>底分字-蓝色-b4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2239,7 +2239,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/b5.png</key>
+            <key>底分字-蓝色-b5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2254,7 +2254,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b6.png</key>
+            <key>底分字-蓝色-b6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2269,7 +2269,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/b7.png</key>
+            <key>底分字-蓝色-b7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2284,7 +2284,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/b8.png</key>
+            <key>底分字-蓝色-b8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2299,7 +2299,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b9.png</key>
+            <key>底分字-蓝色-b9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2314,7 +2314,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/bb.png</key>
+            <key>底分字-蓝色-bb.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2329,7 +2329,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/蓝色/b万.png</key>
+            <key>底分字-蓝色-b万.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2344,7 +2344,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/蓝色/b千.png</key>
+            <key>底分字-蓝色-b千.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2359,7 +2359,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c-.png</key>
+            <key>底分字-青色-c-.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2374,7 +2374,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/青色/c.png</key>
+            <key>底分字-青色-c.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2389,7 +2389,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c0.png</key>
+            <key>底分字-青色-c0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2404,7 +2404,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c1.png</key>
+            <key>底分字-青色-c1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2419,7 +2419,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/青色/c2.png</key>
+            <key>底分字-青色-c2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2434,7 +2434,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c3.png</key>
+            <key>底分字-青色-c3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2449,7 +2449,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/青色/c4.png</key>
+            <key>底分字-青色-c4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2464,7 +2464,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/青色/c5.png</key>
+            <key>底分字-青色-c5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2479,7 +2479,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/青色/c6.png</key>
+            <key>底分字-青色-c6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2494,7 +2494,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c7.png</key>
+            <key>底分字-青色-c7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2509,7 +2509,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c8.png</key>
+            <key>底分字-青色-c8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2524,7 +2524,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c9.png</key>
+            <key>底分字-青色-c9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2539,7 +2539,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/cc.png</key>
+            <key>底分字-青色-cc.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2554,7 +2554,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/青色/c万.png</key>
+            <key>底分字-青色-c万.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2569,7 +2569,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/青色/c千.png</key>
+            <key>底分字-青色-c千.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2584,7 +2584,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y-.png</key>
+            <key>底分字-黄色-y-.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2599,7 +2599,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y.png</key>
+            <key>底分字-黄色-y.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2614,7 +2614,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y0.png</key>
+            <key>底分字-黄色-y0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2629,7 +2629,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y1.png</key>
+            <key>底分字-黄色-y1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2644,7 +2644,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y2.png</key>
+            <key>底分字-黄色-y2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2659,7 +2659,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y3.png</key>
+            <key>底分字-黄色-y3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2674,7 +2674,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y4.png</key>
+            <key>底分字-黄色-y4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2689,7 +2689,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/黄色/y5.png</key>
+            <key>底分字-黄色-y5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2704,7 +2704,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y6.png</key>
+            <key>底分字-黄色-y6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2719,7 +2719,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y7.png</key>
+            <key>底分字-黄色-y7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2734,7 +2734,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y8.png</key>
+            <key>底分字-黄色-y8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2749,7 +2749,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/y9.png</key>
+            <key>底分字-黄色-y9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2764,7 +2764,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>底分字/黄色/yy.png</key>
+            <key>底分字-黄色-yy.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2779,7 +2779,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/黄色/y万.png</key>
+            <key>底分字-黄色-y万.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2794,7 +2794,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>底分字/黄色/y千.png</key>
+            <key>底分字-黄色-y千.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2899,7 +2899,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>按钮/button1.png</key>
+            <key>按钮-button1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2914,7 +2914,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>按钮/button2.png</key>
+            <key>按钮-button2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2929,7 +2929,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>按钮/gou.png</key>
+            <key>按钮-gou.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2944,7 +2944,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>按钮/login.png</key>
+            <key>按钮-login.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2959,7 +2959,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>按钮/shadow.png</key>
+            <key>按钮-shadow.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2974,7 +2974,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>按钮/tips.png</key>
+            <key>按钮-tips.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2989,7 +2989,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>按钮/user-agreement.png</key>
+            <key>按钮-user-agreement.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3214,7 +3214,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>游戏更新/提示.png</key>
+            <key>游戏更新-提示.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3229,7 +3229,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/a1.png</key>
+            <key>牌局结束-a1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3244,7 +3244,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/a2.png</key>
+            <key>牌局结束-a2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3259,7 +3259,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/a3.png</key>
+            <key>牌局结束-a3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3274,7 +3274,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/a4.png</key>
+            <key>牌局结束-a4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3289,7 +3289,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/button_next.png</key>
+            <key>牌局结束-button_next.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3304,7 +3304,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌局结束/button_share.png</key>
+            <key>牌局结束-button_share.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3319,7 +3319,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/result1.png</key>
+            <key>牌局结束-result1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3334,7 +3334,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/result2.png</key>
+            <key>牌局结束-result2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3349,7 +3349,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/title.png</key>
+            <key>牌局结束-title.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3364,7 +3364,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/win.png</key>
+            <key>牌局结束-win.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3379,7 +3379,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>玩家信息/IP.png</key>
+            <key>玩家信息-IP.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3394,7 +3394,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>玩家信息/avatar1.png</key>
+            <key>玩家信息-avatar1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3409,7 +3409,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家信息/avatar2.png</key>
+            <key>玩家信息-avatar2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3424,7 +3424,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家信息/avatar_遮盖锯齿边框_对齐中心点.png</key>
+            <key>玩家信息-avatar_遮盖锯齿边框_对齐中心点.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3439,7 +3439,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家信息/base_coin.png</key>
+            <key>玩家信息-base_coin.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3454,7 +3454,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>玩家信息/base_name.png</key>
+            <key>玩家信息-base_name.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3469,7 +3469,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>玩家信息/coin.png</key>
+            <key>玩家信息-coin.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3484,7 +3484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家信息/line.png</key>
+            <key>玩家信息-line.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3499,7 +3499,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家信息/title.png</key>
+            <key>玩家信息-title.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3514,7 +3514,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/banker.png</key>
+            <key>玩家头像-banker.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3529,7 +3529,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/room_creater.png</key>
+            <key>玩家头像-room_creater.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3544,7 +3544,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/中心点切图/玩家头像切图大小.png</key>
+            <key>玩家头像-中心点切图-玩家头像切图大小.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3559,7 +3559,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/中心点切图/玩家头像框底玻璃.png</key>
+            <key>玩家头像-中心点切图-玩家头像框底玻璃.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3574,7 +3574,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/中心点切图/玩家头像默认.png</key>
+            <key>玩家头像-中心点切图-玩家头像默认.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3589,7 +3589,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/贴边切图/玩家头像切图大小_贴边.png</key>
+            <key>玩家头像-贴边切图-玩家头像切图大小_贴边.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3604,7 +3604,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/贴边切图/玩家头像框底玻璃_贴边.png</key>
+            <key>玩家头像-贴边切图-玩家头像框底玻璃_贴边.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3619,7 +3619,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>玩家头像/贴边切图/玩家头像默认_贴边.png</key>
+            <key>玩家头像-贴边切图-玩家头像默认_贴边.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3694,7 +3694,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>用户栏-文字/0.png</key>
+            <key>用户栏-文字-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3709,7 +3709,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/1.png</key>
+            <key>用户栏-文字-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3724,7 +3724,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/2.png</key>
+            <key>用户栏-文字-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3739,7 +3739,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/3.png</key>
+            <key>用户栏-文字-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3754,7 +3754,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/4.png</key>
+            <key>用户栏-文字-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3769,7 +3769,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>用户栏-文字/5.png</key>
+            <key>用户栏-文字-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3784,7 +3784,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>用户栏-文字/6.png</key>
+            <key>用户栏-文字-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3799,7 +3799,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>用户栏-文字/7.png</key>
+            <key>用户栏-文字-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3814,7 +3814,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>用户栏-文字/8.png</key>
+            <key>用户栏-文字-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3829,7 +3829,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/9.png</key>
+            <key>用户栏-文字-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3844,7 +3844,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/万.png</key>
+            <key>用户栏-文字-万.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3859,7 +3859,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>用户栏-文字/张.png</key>
+            <key>用户栏-文字-张.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3874,7 +3874,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>用户栏-文字/房卡：.png</key>
+            <key>用户栏-文字-房卡：.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3934,7 +3934,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>电量时间wifi/wifi-拷贝.png</key>
+            <key>电量时间wifi-wifi-拷贝.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3949,7 +3949,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>电量时间wifi/wifi.png</key>
+            <key>电量时间wifi-wifi.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3964,7 +3964,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>电量时间wifi/半电.png</key>
+            <key>电量时间wifi-半电.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3979,7 +3979,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>电量时间wifi/圆角矩形-19.png</key>
+            <key>电量时间wifi-圆角矩形-19.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -3994,7 +3994,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>电量时间wifi/没电.png</key>
+            <key>电量时间wifi-没电.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4009,7 +4009,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>电量时间wifi/满电.png</key>
+            <key>电量时间wifi-满电.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4024,7 +4024,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>系统公告/button_big.png</key>
+            <key>系统公告-button_big.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4039,7 +4039,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>系统公告/content.png</key>
+            <key>系统公告-content.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4054,7 +4054,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>系统公告/free_event.png</key>
+            <key>系统公告-free_event.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4069,7 +4069,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>系统公告/subtitle.png</key>
+            <key>系统公告-subtitle.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4084,7 +4084,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>系统公告/title.png</key>
+            <key>系统公告-title.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4099,7 +4099,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>结算/a1.png</key>
+            <key>结算-a1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4114,7 +4114,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/a2.png</key>
+            <key>结算-a2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4129,7 +4129,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/a3.png</key>
+            <key>结算-a3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4144,7 +4144,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/a4.png</key>
+            <key>结算-a4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4159,7 +4159,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>结算/bankrupt.png</key>
+            <key>结算-bankrupt.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4174,7 +4174,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>结算/button_next.png</key>
+            <key>结算-button_next.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4189,7 +4189,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>结算/button_share.png</key>
+            <key>结算-button_share.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4204,7 +4204,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/result_draw.png</key>
+            <key>结算-result_draw.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4219,7 +4219,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/result_lose.png</key>
+            <key>结算-result_lose.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4234,7 +4234,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/result_win.png</key>
+            <key>结算-result_win.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4249,7 +4249,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>结算/winner.png</key>
+            <key>结算-winner.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4264,7 +4264,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/diaglog_box2.png</key>
+            <key>聊天-diaglog_box2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4279,7 +4279,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog1.png</key>
+            <key>聊天-dialog1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4294,7 +4294,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog10.png</key>
+            <key>聊天-dialog10.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4309,7 +4309,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog11.png</key>
+            <key>聊天-dialog11.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4324,7 +4324,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/dialog2.png</key>
+            <key>聊天-dialog2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4339,7 +4339,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog3.png</key>
+            <key>聊天-dialog3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4354,7 +4354,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog4.png</key>
+            <key>聊天-dialog4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4369,7 +4369,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog5.png</key>
+            <key>聊天-dialog5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4384,7 +4384,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/dialog6.png</key>
+            <key>聊天-dialog6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4399,7 +4399,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/dialog7.png</key>
+            <key>聊天-dialog7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4414,7 +4414,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog8.png</key>
+            <key>聊天-dialog8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4429,7 +4429,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog9.png</key>
+            <key>聊天-dialog9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4444,7 +4444,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog_box1.png</key>
+            <key>聊天-dialog_box1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4459,7 +4459,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog_box3.png</key>
+            <key>聊天-dialog_box3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4474,7 +4474,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog_line.png</key>
+            <key>聊天-dialog_line.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4489,7 +4489,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/dialog_off.png</key>
+            <key>聊天-dialog_off.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4504,7 +4504,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/dialog_on.png</key>
+            <key>聊天-dialog_on.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4519,7 +4519,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/expression_off.png</key>
+            <key>聊天-expression_off.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4534,7 +4534,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/expression_on.png</key>
+            <key>聊天-expression_on.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4549,7 +4549,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/icon_chat.png</key>
+            <key>聊天-icon_chat.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4564,7 +4564,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/input.png</key>
+            <key>聊天-input.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4579,7 +4579,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>聊天/send.png</key>
+            <key>聊天-send.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4594,7 +4594,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>背景/game_title6.png</key>
+            <key>背景-game_title6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4609,7 +4609,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>背景/game_title7.png</key>
+            <key>背景-game_title7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4624,7 +4624,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>背景/table_corner1.png</key>
+            <key>背景-table_corner1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4639,7 +4639,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>背景/table_corner2.png</key>
+            <key>背景-table_corner2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4654,7 +4654,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>背景/table_corner3.png</key>
+            <key>背景-table_corner3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4669,7 +4669,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>背景/table_corner4.png</key>
+            <key>背景-table_corner4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4864,7 +4864,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/adjust_button.png</key>
+            <key>设置-adjust_button.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4879,7 +4879,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>设置/dark.png</key>
+            <key>设置-dark.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4894,7 +4894,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/light.png</key>
+            <key>设置-light.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4909,7 +4909,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/log_out.png</key>
+            <key>设置-log_out.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4924,7 +4924,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>设置/music1.png</key>
+            <key>设置-music1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4939,7 +4939,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/music2.png</key>
+            <key>设置-music2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4954,7 +4954,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/off.png</key>
+            <key>设置-off.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4969,7 +4969,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/on.png</key>
+            <key>设置-on.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4984,7 +4984,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>设置/title_setting.png</key>
+            <key>设置-title_setting.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5059,7 +5059,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>邮件/content1.png</key>
+            <key>邮件-content1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5074,7 +5074,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>邮件/content2.png</key>
+            <key>邮件-content2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5089,7 +5089,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>邮件/消息-按下.png</key>
+            <key>邮件-消息-按下.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5104,7 +5104,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>邮件/消息.png</key>
+            <key>邮件-消息.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5119,7 +5119,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>邮件/联系我们-按下.png</key>
+            <key>邮件-联系我们-按下.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5134,7 +5134,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>邮件/联系我们.png</key>
+            <key>邮件-联系我们.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5149,7 +5149,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>骰子/10.png</key>
+            <key>骰子-10.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5164,7 +5164,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/11.png</key>
+            <key>骰子-11.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5179,7 +5179,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/12.png</key>
+            <key>骰子-12.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5194,7 +5194,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/13.png</key>
+            <key>骰子-13.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5209,7 +5209,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/14.png</key>
+            <key>骰子-14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5224,7 +5224,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/15.png</key>
+            <key>骰子-15.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5239,7 +5239,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/16.png</key>
+            <key>骰子-16.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5254,7 +5254,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/2.png</key>
+            <key>骰子-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5269,7 +5269,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/3.png</key>
+            <key>骰子-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5284,7 +5284,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/4.png</key>
+            <key>骰子-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5299,7 +5299,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/5.png</key>
+            <key>骰子-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5314,7 +5314,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/6.png</key>
+            <key>骰子-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5329,7 +5329,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/7.png</key>
+            <key>骰子-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5344,7 +5344,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/8.png</key>
+            <key>骰子-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5359,7 +5359,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>骰子/9.png</key>
+            <key>骰子-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>

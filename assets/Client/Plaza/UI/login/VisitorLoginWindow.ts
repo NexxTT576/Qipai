@@ -1,4 +1,4 @@
-import { windowManager } from "../../../Manager/WindowManager";
+import WindowComponent from "../WindowComponent";
 
 // Learn TypeScript:
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/typescript.html
@@ -10,21 +10,21 @@ import { windowManager } from "../../../Manager/WindowManager";
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
 
-const {ccclass, property} = cc._decorator;
+const { ccclass, property } = cc._decorator;
 
 @ccclass
-export default class WindowComponent extends cc.Component {
+export default class NewClass extends WindowComponent {
+  @property(cc.EditBox)
+  account: cc.EditBox = null;
 
-    // LIFE-CYCLE CALLBACKS:
+  @property(cc.EditBox)
+  password: cc.EditBox = null;
 
-    // onLoad () {}
+  // LIFE-CYCLE CALLBACKS:
 
-    start () {
+  // onLoad () {}
 
-    }
+  start() {}
 
-    // update (dt) {}
-    onClose(){
-        windowManager.pop()
-    }
+  // update (dt) {}
 }

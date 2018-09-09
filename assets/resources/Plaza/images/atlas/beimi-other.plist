@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>反馈/玩家反馈框.png</key>
+            <key>反馈-玩家反馈框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>反馈/系统回复框.png</key>
+            <key>反馈-系统回复框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌局结束/base_loser.png</key>
+            <key>牌局结束-base_loser.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌局结束/base_winner.png</key>
+            <key>牌局结束-base_winner.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>聊天/base.png</key>
+            <key>聊天-base.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>背景/龙纹居中.png</key>
+            <key>背景-龙纹居中.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -154,7 +154,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>邮件/mail_base.png</key>
+            <key>邮件-mail_base.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>

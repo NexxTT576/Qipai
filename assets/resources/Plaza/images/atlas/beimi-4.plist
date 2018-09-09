@@ -1534,7 +1534,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/flower1.png</key>
+            <key>牌面-flower1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1549,7 +1549,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/flower2.png</key>
+            <key>牌面-flower2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1564,7 +1564,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/flower3.png</key>
+            <key>牌面-flower3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1579,7 +1579,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/flower4.png</key>
+            <key>牌面-flower4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1594,7 +1594,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/season1.png</key>
+            <key>牌面-season1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1609,7 +1609,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/season2.png</key>
+            <key>牌面-season2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1624,7 +1624,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/season3.png</key>
+            <key>牌面-season3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1639,7 +1639,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/season4.png</key>
+            <key>牌面-season4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1654,7 +1654,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo1.png</key>
+            <key>牌面-suo1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1669,7 +1669,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo2.png</key>
+            <key>牌面-suo2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1684,7 +1684,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo3.png</key>
+            <key>牌面-suo3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1699,7 +1699,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo4.png</key>
+            <key>牌面-suo4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1714,7 +1714,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo5.png</key>
+            <key>牌面-suo5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1729,7 +1729,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo6.png</key>
+            <key>牌面-suo6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1744,7 +1744,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo7.png</key>
+            <key>牌面-suo7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1759,7 +1759,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo8.png</key>
+            <key>牌面-suo8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1774,7 +1774,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/suo9.png</key>
+            <key>牌面-suo9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1789,7 +1789,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/tong1.png</key>
+            <key>牌面-tong1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1804,7 +1804,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/tong2.png</key>
+            <key>牌面-tong2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1819,7 +1819,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/tong3.png</key>
+            <key>牌面-tong3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1834,7 +1834,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/tong4.png</key>
+            <key>牌面-tong4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1849,7 +1849,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/tong5.png</key>
+            <key>牌面-tong5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1864,7 +1864,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/tong6.png</key>
+            <key>牌面-tong6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1879,7 +1879,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/tong7.png</key>
+            <key>牌面-tong7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1894,7 +1894,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/tong8.png</key>
+            <key>牌面-tong8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1909,7 +1909,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/tong9.png</key>
+            <key>牌面-tong9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1924,7 +1924,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wan1.png</key>
+            <key>牌面-wan1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1939,7 +1939,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wan2.png</key>
+            <key>牌面-wan2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1954,7 +1954,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/wan3.png</key>
+            <key>牌面-wan3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1969,7 +1969,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wan4.png</key>
+            <key>牌面-wan4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1984,7 +1984,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wan5.png</key>
+            <key>牌面-wan5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1999,7 +1999,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/wan6.png</key>
+            <key>牌面-wan6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2014,7 +2014,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/wan7.png</key>
+            <key>牌面-wan7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2029,7 +2029,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wan8.png</key>
+            <key>牌面-wan8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2044,7 +2044,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/wan9.png</key>
+            <key>牌面-wan9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2059,7 +2059,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wind1.png</key>
+            <key>牌面-wind1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2074,7 +2074,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/wind2.png</key>
+            <key>牌面-wind2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2089,7 +2089,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wind3.png</key>
+            <key>牌面-wind3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2104,7 +2104,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wind4.png</key>
+            <key>牌面-wind4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2119,7 +2119,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wind5.png</key>
+            <key>牌面-wind5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2134,7 +2134,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>牌面/wind6.png</key>
+            <key>牌面-wind6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -2149,7 +2149,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>牌面/wind7.png</key>
+            <key>牌面-wind7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>

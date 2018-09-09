@@ -1,7 +1,4 @@
-import { windowManager } from "../../../Manager/WindowManager";
-import { netManager } from "../../../Manager/NetManager";
-import { LoginMsg } from "../QPStruct/QPPLazaMsg";
-import { QPStruct } from "../QPStruct/QPStruct";
+import { ManagerWindow } from "../Managers/ManagerWindow";
 
 // Learn TypeScript:
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/typescript.html
@@ -16,30 +13,15 @@ import { QPStruct } from "../QPStruct/QPStruct";
 const { ccclass, property } = cc._decorator;
 
 @ccclass
-export default class LoginView extends cc.Component {
-    @property(cc.Prefab)
-    visitorWindow: cc.Prefab = null
-    // LIFE-CYCLE CALLBACKS:
+export default class WindowComponent extends cc.Component {
+  // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {}
+  // onLoad () {}
 
-    start() {
-        windowManager.init()
-    }
+  start() {}
 
-    // update (dt) {}
-
-    /**
-     * 游客登陆
-     */
-    clickVisitor() {
-        windowManager.show(this.visitorWindow)
-    }
-
-    /**
-     * 微信登陆
-     */
-    clickWX() {
-        cc.director.loadScene('hall')
-    }
+  // update (dt) {}
+  onClose() {
+    ManagerWindow.instance.pop();
+  }
 }

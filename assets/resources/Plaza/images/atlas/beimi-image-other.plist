@@ -334,7 +334,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/bg_light_effects.png</key>
+            <key>playway-bg_light_effects.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -349,7 +349,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>playway/bg_playway.png</key>
+            <key>playway-bg_playway.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -364,7 +364,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/gongao_text_bg.png</key>
+            <key>playway-gongao_text_bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -379,7 +379,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/options_bg.png</key>
+            <key>playway-options_bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -394,7 +394,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/options_selected.png</key>
+            <key>playway-options_selected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -409,7 +409,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/options_unselected.png</key>
+            <key>playway-options_unselected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -424,7 +424,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/playway_selected.png</key>
+            <key>playway-playway_selected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -439,7 +439,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/playway_unselected.png</key>
+            <key>playway-playway_unselected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -454,7 +454,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>playway/record_selected.png</key>
+            <key>playway-record_selected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -469,7 +469,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>playway/record_unselected.png</key>
+            <key>playway-record_unselected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -484,7 +484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/tab_bg.png</key>
+            <key>playway-tab_bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -499,7 +499,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/tab_selected.png</key>
+            <key>playway-tab_selected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -514,7 +514,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/tab_unselected.png</key>
+            <key>playway-tab_unselected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -529,7 +529,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>playway/text_title.png</key>
+            <key>playway-text_title.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -559,7 +559,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>summary/你赢了.png</key>
+            <key>summary-你赢了.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -574,7 +574,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>summary/你输了.png</key>
+            <key>summary-你输了.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -589,7 +589,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>summary/其他头像外框50x50.png</key>
+            <key>summary-其他头像外框50x50.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -604,7 +604,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>summary/其他玩家底框.png</key>
+            <key>summary-其他玩家底框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -619,7 +619,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>summary/加倍小.png</key>
+            <key>summary-加倍小.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -634,7 +634,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>summary/失败角色.png</key>
+            <key>summary-失败角色.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -649,7 +649,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>summary/自己头像外框74x74.png</key>
+            <key>summary-自己头像外框74x74.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -664,7 +664,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>summary/自己灰色底框.png</key>
+            <key>summary-自己灰色底框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -679,7 +679,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>summary/自己金色底框.png</key>
+            <key>summary-自己金色底框.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -919,7 +919,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/#光效复用切图bg_light_effects.png</key>
+            <key>房间-#光效复用切图bg_light_effects.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -934,7 +934,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/#底板复用切图bg.png</key>
+            <key>房间-#底板复用切图bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -949,7 +949,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/#底板复用切图text_bg.png</key>
+            <key>房间-#底板复用切图text_bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -964,7 +964,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/#按钮复用切图Btn_.png</key>
+            <key>房间-#按钮复用切图Btn_.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -979,7 +979,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/Btn_text_creat.png</key>
+            <key>房间-Btn_text_creat.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -994,7 +994,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/Btn_text_free.png</key>
+            <key>房间-Btn_text_free.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1009,7 +1009,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/bg_options.png</key>
+            <key>房间-bg_options.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1024,7 +1024,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/bg_tab.png</key>
+            <key>房间-bg_tab.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1039,7 +1039,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/icon_description.png</key>
+            <key>房间-icon_description.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1054,7 +1054,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/icon_roomcard.png</key>
+            <key>房间-icon_roomcard.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1069,7 +1069,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/icon_roomcard_free.png</key>
+            <key>房间-icon_roomcard_free.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1084,7 +1084,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/icon_roomcard_free2.png</key>
+            <key>房间-icon_roomcard_free2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1099,7 +1099,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/icon_tips.png</key>
+            <key>房间-icon_tips.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1114,7 +1114,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/options_selected.png</key>
+            <key>房间-options_selected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1129,7 +1129,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/options_unselected.png</key>
+            <key>房间-options_unselected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1144,7 +1144,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/tab_selected.png</key>
+            <key>房间-tab_selected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1159,7 +1159,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/tab_selected_tuidaohu.png</key>
+            <key>房间-tab_selected_tuidaohu.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1174,7 +1174,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/tab_selected_xueliu.png</key>
+            <key>房间-tab_selected_xueliu.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1189,7 +1189,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/tab_selected_xuezhan.png</key>
+            <key>房间-tab_selected_xuezhan.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1204,7 +1204,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>房间/tab_unselected.png</key>
+            <key>房间-tab_unselected.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1219,7 +1219,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/tab_unselected_tuidaohu.png</key>
+            <key>房间-tab_unselected_tuidaohu.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1234,7 +1234,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/tab_unselected_xueliu.png</key>
+            <key>房间-tab_unselected_xueliu.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1249,7 +1249,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/tab_unselected_xuezhan.png</key>
+            <key>房间-tab_unselected_xuezhan.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1264,7 +1264,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/十三水.png</key>
+            <key>房间-十三水.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1279,7 +1279,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/广东麻将.png</key>
+            <key>房间-广东麻将.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1294,7 +1294,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/德州扑克.png</key>
+            <key>房间-德州扑克.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1309,7 +1309,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/经典斗地主.png</key>
+            <key>房间-经典斗地主.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1324,7 +1324,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/诈金花.png</key>
+            <key>房间-诈金花.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1339,7 +1339,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/跑胡子.png</key>
+            <key>房间-跑胡子.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1354,7 +1354,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/邀请好友.png</key>
+            <key>房间-邀请好友.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1369,7 +1369,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/邀请好友BG.png</key>
+            <key>房间-邀请好友BG.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1384,7 +1384,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>房间/麻将.png</key>
+            <key>房间-麻将.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1399,7 +1399,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/+.png</key>
+            <key>数字-+.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1414,7 +1414,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/-.png</key>
+            <key>数字--.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1429,7 +1429,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/0.png</key>
+            <key>数字-0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1444,7 +1444,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/1.png</key>
+            <key>数字-1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1459,7 +1459,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/2.png</key>
+            <key>数字-2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1474,7 +1474,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/3.png</key>
+            <key>数字-3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1489,7 +1489,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/4.png</key>
+            <key>数字-4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1504,7 +1504,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/5.png</key>
+            <key>数字-5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1519,7 +1519,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/6.png</key>
+            <key>数字-6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1534,7 +1534,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/7.png</key>
+            <key>数字-7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1549,7 +1549,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/8.png</key>
+            <key>数字-8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1564,7 +1564,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/9.png</key>
+            <key>数字-9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1579,7 +1579,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/dian.png</key>
+            <key>数字-dian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1594,7 +1594,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/qian.png</key>
+            <key>数字-qian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1609,7 +1609,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/wan.png</key>
+            <key>数字-wan.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1624,7 +1624,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_+.png</key>
+            <key>数字-y_+.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1639,7 +1639,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_-.png</key>
+            <key>数字-y_-.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1654,7 +1654,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_0.png</key>
+            <key>数字-y_0.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1669,7 +1669,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_1.png</key>
+            <key>数字-y_1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1684,7 +1684,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/y_2.png</key>
+            <key>数字-y_2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1699,7 +1699,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_3.png</key>
+            <key>数字-y_3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1714,7 +1714,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_4.png</key>
+            <key>数字-y_4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1729,7 +1729,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_5.png</key>
+            <key>数字-y_5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1744,7 +1744,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/y_6.png</key>
+            <key>数字-y_6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1759,7 +1759,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_7.png</key>
+            <key>数字-y_7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1774,7 +1774,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_8.png</key>
+            <key>数字-y_8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1789,7 +1789,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_9.png</key>
+            <key>数字-y_9.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1804,7 +1804,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_dian.png</key>
+            <key>数字-y_dian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1819,7 +1819,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>数字/y_qian.png</key>
+            <key>数字-y_qian.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1834,7 +1834,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>数字/y_wan.png</key>
+            <key>数字-y_wan.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
